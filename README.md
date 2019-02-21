@@ -1,2 +1,2 @@
 # Vim
-vim install and configuration for Ubuntu, Centos, Windows.
+Vim installation and configuration for Ubuntu, Centos, Windows.
